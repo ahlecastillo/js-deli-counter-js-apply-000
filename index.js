@@ -31,6 +31,7 @@ function currentLine(line) {
  return "The line is currently: " + nameAndPosition.join(", ");
 } 
 
+
 function takeANumber() {
   return n + 1; 
 }
