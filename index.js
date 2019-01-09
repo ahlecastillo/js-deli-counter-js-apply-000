@@ -32,5 +32,5 @@ function currentLine(line) {
 } 
 
 function takeANumber() {
-  
+  n + 1; 
 }
