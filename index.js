@@ -24,7 +24,7 @@ function currentLine(line) {
   var nameAndPosition = []; 
   for (var i = 0; i < line.length; i++) {
   var numberInLine = (i + 1) + ". ";
-  var name = line[i]; //pay attention to this
+  var name = line[i];
    nameAndPosition.push(numberInLine + name);
   
  }
